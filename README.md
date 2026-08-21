@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Shivanshi 👋
 
-<!--
-**shivanshehehe/shivanshehehe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**B.Tech CSE @ JIIT | Full-Stack Developer | AI Enthusiast**
 
-Here are some ideas to get you started:
+I build **full-stack applications, backend systems, and AI-powered solutions.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+`Python` · `C++` · `JavaScript` · `FastAPI` · `React` · `Node.js` · `MongoDB` · `SQL`
+
+### Currently
+
+💻 Building full-stack & AI projects
+🧠 Practicing **DSA & problem solving**
+🌱 Exploring **AI, backend architecture & system design**
+
+---
+
+*Build. Learn. Improve.*
