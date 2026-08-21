@@ -1,4 +1,4 @@
-# Hi, I'm Shivanshi 👋
+# Hi, I'm Shivanshi 🎀
 
 **B.Tech CSE @ JIIT | Full-Stack Developer | AI Enthusiast**
 
