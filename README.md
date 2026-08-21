@@ -14,9 +14,9 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1IazcILj5YSwDoaIP6YMSZVP2LceWyXLy/view?usp=sharing](https://drive.google.com/file/d/1IazcILj5YSwDoaIP6YMSZVP2LceWyXLy/view?usp=sharing)
 
-- ⚡ Fun fact **🐱 My cat Sushi thinks he’s the developer. I just pay the bills.**
+- ⚡ Fun fact: **🐈 My cat Sushi thinks he’s the developer.**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
